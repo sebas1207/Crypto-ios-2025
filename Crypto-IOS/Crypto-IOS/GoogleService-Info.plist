@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBmOKQE70Z_DQzcKswUwydjdU0iLCEjtf4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>153454621639</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sbedoya.Crypto-IOS</string>
+	<key>PROJECT_ID</key>
+	<string>crypto-mobile-2025-6780b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crypto-mobile-2025-6780b.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:153454621639:ios:5252c63fa77898ab5a1fe2</string>
+</dict>
+</plist>
